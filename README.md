@@ -10,7 +10,8 @@ start building this project in 2027.
 Create a small app where a user can add, edit, complete and delete tasks.
 
 ## Planned technologies
-- Python
+- C#
+- .NET
 - MySQL
 - Git and GitHub
 
